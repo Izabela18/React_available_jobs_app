@@ -1,0 +1,16 @@
+.content_container {
+  text-align: center;
+  color: navy;
+  font-size: 25px;
+  padding: 20px;
+  margin: 0
+}
+
+.jobs_pop {
+  background-color: #26adab;
+  border: #331f89 1px solid;
+  font-size: 15px;
+}
+ .info {
+   font-size: 20px
+ }
