@@ -1,3 +1,5 @@
+A React app that enables listing of available vacancies, built with create-react-app, it uses ES6 syntax
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
